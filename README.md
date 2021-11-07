@@ -1,2 +1,2 @@
 # KosherTrading
-CSGO Trading bot using BUFF162 and some instant sell skin sites
+CSGO Trading bot using BUFF163 and some instant sell skin sites
